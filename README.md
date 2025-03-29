@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Weather Dashboard
 
 ## Overview
@@ -62,11 +61,8 @@ You can deploy the Weather Dashboard using Vercel, Netlify, or GitHub Pages:
 Then follow your hosting provider’s instructions.
 
 Contributions are welcome! Feel free to fork this repository and improve the project. 🚀
-   ```sh
-
-
-You can copy-paste this as your `README.md` file and push it to your GitHub repository. 🚀
-
+  
+      You can copy-paste this as your `README.md` file and push it to your GitHub repository. 🚀
 =======
 # Getting Started with Create React App
 
